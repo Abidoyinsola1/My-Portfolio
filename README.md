@@ -2,9 +2,9 @@
 
 ## Built With
 
-- Ruby
-- Ruby on Rails
-- VS Code
+- HTML
+- CSS
+- Bootstrap
 
 👤 **Abiola Doyinsola Adeyemi**
 
