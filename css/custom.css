@@ -1,0 +1,8 @@
+.navbar-brand img {
+    width: 70px;
+}
+
+#about .look-through {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline;
+}
